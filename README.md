@@ -1,6 +1,6 @@
 # 📘 GFG160 - 160 Days of DSA Challenge
 
-Welcome to my personal journey through the **GFG 160 Challenge** — solving **250+ problems** over the course of 160 days. The goal is to build mastery in DSA topics for interviews and problem-solving 🚀
+Welcome to my personal journey through the **GFG 160 Challenge** — solving **250+ problems**. The goal is to build mastery in DSA topics for interviews and problem-solving 🚀
 
 ---
 
