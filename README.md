@@ -11,7 +11,7 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 | Topic                  | Status         |
 | ---------------------- | -------------- |
 | ✅ Arrays              | ✅ Done        |
-| ⬜ Strings             | ⬜ Not Started |
+| ✅ Strings             | ✅ Done        |
 | ⬜ Sorting             | ⬜ Not Started |
 | ⬜ Searching           | ⬜ Not Started |
 | ⬜ Matrix              | ⬜ Not Started |
@@ -33,27 +33,38 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 
 ## 🗓️ Day 1 - Arrays
 
-- [✅ Second Largest](./1.Arrays/01_Second_Largest.cpp)
-- [✅ Move all zeroes to end](./1.Arrays/02_Move_all_zeroes_to_end.cpp)
-- [✅ Reverse array](./1.Arrays/03_Reverse_array.cpp)
-- [✅ Rotate array](./1.Arrays/04_Rotate_Array.cpp)
-- [✅ Next Permutation](./1.Arrays/05_Next_Permutation.cpp)
-- [✅ Majority Element 2](./1.Arrays/06_Majority_element_2.cpp)
+- [✅ Second Largest](./01.Arrays/01_Second_Largest.cpp)
+- [✅ Move all zeroes to end](./01.Arrays/02_Move_all_zeroes_to_end.cpp)
+- [✅ Reverse array](./01.Arrays/03_Reverse_array.cpp)
+- [✅ Rotate array](./01.Arrays/04_Rotate_Array.cpp)
+- [✅ Next Permutation](./01.Arrays/05_Next_Permutation.cpp)
+- [✅ Majority Element 2](./01.Arrays/06_Majority_element_2.cpp)
 
 ---
 
 ## 🗓️ Day 2 - Arrays
 
-- [✅ Stock Buy and Sell - Multiple transactions allowed](./1.Arrays/07_Stock_Buy_and_Sell_multiple_transactions_allowed.cpp)
-- [✅ Stock Buy and Sell - Max One transaction allowed](./1.Arrays/08_Stock_Buy_and_Sell_only_one_transaction.cpp)
-- [✅ Minimize Heights 2](./1.Arrays/09_Minimize_the_heights_2.cpp)
-- [✅ Kadane's Algorithm - Max Subarray Sum](./1.Arrays/10_Kadanes_algo.cpp)
-- [✅ Maximum Product Subarray](./1.Arrays/11_Maximum_Product_subarray.cpp)
-- [✅ Maximum Circular Subarray Sum](./1.Arrays/12_Max_Circular_Subarray_sum.cpp)
+- [✅ Stock Buy and Sell - Multiple transactions allowed](./01.Arrays/07_Stock_Buy_and_Sell_multiple_transactions_allowed.cpp)
+- [✅ Stock Buy and Sell - Max One transaction allowed](./01.Arrays/08_Stock_Buy_and_Sell_only_one_transaction.cpp)
+- [✅ Minimize Heights 2](./01.Arrays/09_Minimize_the_heights_2.cpp)
+- [✅ Kadane's Algorithm - Max Subarray Sum](./01.Arrays/10_Kadanes_algo.cpp)
+- [✅ Maximum Product Subarray](./01.Arrays/11_Maximum_Product_subarray.cpp)
+- [✅ Maximum Circular Subarray Sum](./01.Arrays/12_Max_Circular_Subarray_sum.cpp)
+- [✅ Smallest Positive Missing](./01.Arrays/13_Smallest_positive_missing.cpp)
 
 ---
 
+## 🗓️ Day 3 - Strings
+
+- [✅ Implement Atoi](./02.Strings/01_Implement_Atoi.cpp)
+- [✅ Add Binary Strings](./02.Strings/02_Add_Binary_Strings.cpp)
+- [✅ Anagram](./02.Strings/03_Anagram.cpp)
+- [✅ Non Repeating Character](./02_Strings/04_Non_Repeating_Character.cpp)
+- [✅ Search Pattern](./02_Strings/05_Search_Pattern.cpp)
+- [✅ Min Chars to add for Palindrome](./02_Strings/06_Min_Chars_to_add_for_Palindrome.cpp)
+- [✅ String Rotations of each other](./02_Strings/07_String_Rotations_of_each_other.cpp)
+
 ## 📈 Progress Tracker
 
-- 🧠 Problems Solved: **12 / 250**
+- 🧠 Problems Solved: **20 / 250**
 - 🚀 Started On: `06/04/2025`
