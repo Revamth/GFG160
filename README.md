@@ -13,7 +13,7 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 | ✅ Arrays              | ✅ Done        |
 | ✅ Strings             | ✅ Done        |
 | ✅ Sorting             | ✅ Done        |
-| ⬜ Searching           | ⬜ Not Started |
+| 🟨 Searching           | 🟨 In Progress |
 | ⬜ Matrix              | ⬜ Not Started |
 | ⬜ Hashing             | ⬜ Not Started |
 | ⬜ Two Pointer         | ⬜ Not Started |
@@ -78,7 +78,18 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 
 ---
 
+## 🗓️ Day 5 - Searching
+
+- [✅ Number of Occurence](./04_Searching/01_Number_of_Occurence.cpp)
+- [✅ Sorted and Rotated Minimum](./04_Searching/02_Sorted_and_Rotated_Minimum.cpp)
+- [✅ Search in Rotated sorted array](./04_Searching/03_Search_in_Rotated_sorted_array.cpp)
+- [✅ Peak Element](./04_Searching/04_Peak_Element.cpp)
+- [✅ Kth Element of two arrays](./04_Searching/05_Kth_element_of_two_arrays.cpp)
+- [✅ Allocate Minimum Pages](./04_Searching/07_Allocate_Minimum_Pages.cpp)
+
+---
+
 ## 📈 Progress Tracker
 
-- 🧠 Problems Solved: **27 / 250**
+- 🧠 Problems Solved: **33 / 250**
 - 🚀 Started On: `06/04/2025`
