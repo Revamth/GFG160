@@ -13,8 +13,8 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 | ✅ Arrays              | ✅ Done        |
 | ✅ Strings             | ✅ Done        |
 | ✅ Sorting             | ✅ Done        |
-| 🟨 Searching           | 🟨 In Progress |
-| ⬜ Matrix              | ⬜ Not Started |
+| ✅ Searching           | ✅ Done        |
+| ✅ Matrix              | ✅ Done        |
 | ⬜ Hashing             | ⬜ Not Started |
 | ⬜ Two Pointer         | ⬜ Not Started |
 | ⬜ Prefix Sum          | ⬜ Not Started |
@@ -91,7 +91,18 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 
 ---
 
+## 🗓️ Day 6 - Matrix
+
+- [✅ Spiral Traversal](./05_Matrix/01_Spiral_traversal.cpp)
+- [✅ Rotate by 90](./05_Matrix/02_Rotate_by_90.cpp)
+- [✅ Search in row/column sorted matrix](./05_Matrix/03_Search_in_row_column_sorted_matrix.cpp)
+- [✅ Search in Row-wise sorted matrix](./05_Matrix/04_Search_in_Row_wise_sorted_matrix.cpp)
+- [✅ Search in a sorted matrix](./05_Matrix/05_Search_in_a_sorted_matrix.cpp)
+- [✅ Set Matrix Zeroes](./05_Matrix/06_Set_Matrix_zeroes.cpp)
+
+---
+
 ## 📈 Progress Tracker
 
-- 🧠 Problems Solved: **35 / 250**
+- 🧠 Problems Solved: **41 / 250**
 - 🚀 Started On: `06/04/2025`
