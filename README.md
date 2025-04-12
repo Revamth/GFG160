@@ -85,11 +85,13 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 - [✅ Search in Rotated sorted array](./04_Searching/03_Search_in_Rotated_sorted_array.cpp)
 - [✅ Peak Element](./04_Searching/04_Peak_Element.cpp)
 - [✅ Kth Element of two arrays](./04_Searching/05_Kth_element_of_two_arrays.cpp)
+- [✅ Aggressive Cows](./04_Searching/06_Aggressive_cows.cpp)
 - [✅ Allocate Minimum Pages](./04_Searching/07_Allocate_Minimum_Pages.cpp)
+- [✅ Kth Missing Positive Number](./04_Searching/08_Kth_Missing_Positive_Number.cpp)
 
 ---
 
 ## 📈 Progress Tracker
 
-- 🧠 Problems Solved: **33 / 250**
+- 🧠 Problems Solved: **35 / 250**
 - 🚀 Started On: `06/04/2025`
