@@ -15,7 +15,7 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 | ✅ Sorting             | ✅ Done        |
 | ✅ Searching           | ✅ Done        |
 | ✅ Matrix              | ✅ Done        |
-| ⬜ Hashing             | ⬜ Not Started |
+| 🟨 Hashing             | 🟨 In Progress |
 | ⬜ Two Pointer         | ⬜ Not Started |
 | ⬜ Prefix Sum          | ⬜ Not Started |
 | ⬜ Linked Lists        | ⬜ Not Started |
@@ -102,7 +102,19 @@ Welcome to my personal journey through the **GFG 160 Challenge** — solving **2
 
 ---
 
+## 🗓️ Day 7 - Hashing
+
+- [✅ Two Sum Pair with given sum](./06_Hashing/01_Two_Sum_Pair_with_given_sum.cpp)
+- [✅ Count pairs with given sum](./06_Hashing/02_Count_pairs_with_given_sum.cpp)
+- [✅ Triplets with 0 sum](./06_Hashing/03_Tripletes_with_0_sum.cpp)
+- [✅ Intersection of arrays with duplicates](./06_Hashing/04_Intersection_of_two_arrays_with_duplicates.cpp)
+
+- [✅ Union of arrays with duplicates](./06_Hashing/05_Union_of_arrays_with_duplicates.cpp)
+- [✅ Longest Consecutive Sequence](./06_Hashing/06_Longest_Consecutive_Sequence.cpp)
+
+---
+
 ## 📈 Progress Tracker
 
-- 🧠 Problems Solved: **41 / 250**
+- 🧠 Problems Solved: **47 / 250**
 - 🚀 Started On: `06/04/2025`
